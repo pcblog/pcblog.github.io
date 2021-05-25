@@ -21,7 +21,7 @@
 title: PCB
 author: Philip Zhan and Cher Han
 description: >- # this means to ignore newlines until "baseurl:"
-  Philip, Cher and Bridget's Blog
+  Philip, Cher and Bridget's blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pcblog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: pcblog

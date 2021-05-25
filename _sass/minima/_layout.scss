@@ -134,6 +134,12 @@
   padding-left: $spacing-unit / 2;
 }
 
+.footer-col-right {
+  float: right;
+  margin-bottom: $spacing-unit / 2;
+  padding-right: $spacing-unit / 2;
+}
+
 .footer-col-1 {
   width: -webkit-calc(35% - (#{$spacing-unit} / 2));
   width:         calc(35% - (#{$spacing-unit} / 2));
