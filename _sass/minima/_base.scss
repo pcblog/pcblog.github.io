@@ -26,6 +26,9 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  background-image: url(/assets/pcb.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 
