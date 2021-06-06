@@ -1,4 +1,4 @@
-# Philip, Cher and Bridger's blog
+# Philip, Cher and Bridget's Blog
 
 ## Develop
 
@@ -8,7 +8,7 @@
 
 ### Run Locally
 
-Run `jekyll serve` from the root directory of the repo
+Run `jekyll serve` from the root directory of the repo.
 
 ## Deploy
 
